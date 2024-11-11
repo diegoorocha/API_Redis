@@ -9,4 +9,4 @@ Obser
 
 ## Artigo
 - Esse projeto possui um código simples, apenas para **DEMONSTRAR** a utilização do Redis com .NET 8, e utilizado como exemplo do artigo que escrevi sobre Redis (cache distribuido).
-### Acesse o artigo [aqui](https://www.linkedin.com/pulse/redis-cache-distribu%C3%ADdo-com-net-diego-rocha-jabsf/)
+### Acesse o artigo [aqui](https://www.linkedin.com/pulse/redis-cache-distribu%C3%ADdo-com-net-diego-rocha-z8rbf/)
